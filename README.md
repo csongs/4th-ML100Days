@@ -25,8 +25,8 @@ pip install keras
 conda install -c conda-forge matplotlib
 
 #### env
-D:\Anaconda
-D:\Anaconda\Library\mingw-w64\bin
-D:\Anaconda\Library\usr\bin
-D:\Anaconda\Library\bin
-D:\Anaconda\Scripts
+- D:\Anaconda
+- D:\Anaconda\Library\mingw-w64\bin
+- D:\Anaconda\Library\usr\bin
+- D:\Anaconda\Library\bin
+- D:\Anaconda\Scripts
